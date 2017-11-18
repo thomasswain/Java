@@ -1,0 +1,5 @@
+1. position (col,row) = 8*row + col
+
+2. col = position % 8
+
+3. row = (position - col) / 8

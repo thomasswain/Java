@@ -1,0 +1,11 @@
+Right and left shift : Problem 6
+
+(x>>4)&1 
+
+or
+
+(x>>4)^0
+
+So, want the boolean value of the expression to be true if 5th bit is set. Ie. if x>>4 is equal to 1. To implement using bitwise operators, either AND with 1 or XOR with 0.
+
+I assume that if the number has more than 5 bits set. Ie. x>>4 is longer than 1 bit, the bitwise operator returns the boolean value of a comparison of the single bit 1 (or 0), and the LSB of x>>4)

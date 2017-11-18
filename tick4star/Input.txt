@@ -1,0 +1,7 @@
+
+Pattern 1:Richard Guy (1970):20:20:1:1:111 111 111
+
+Pattern 2:Richard Guy (1970):20:20:1:1:010 001 111
+
+Pattern 3:Richard Guy (1970):20:20:1:1:0101 0011 1111
+

@@ -1,0 +1,7 @@
+
+Glider:Richard Guy (1970):8:8:3:2:111 101 111
+
+Glider:Richard Guy (1970):20:20:1:1:010 001 111
+
+Glider:Richard Guy (1970):20:20:1:1:0101 0011 1111
+
