@@ -1,9 +1,0 @@
-Right and left shift : Problem 6
-
-
-
-Boolean = (x>>4)%2 != 0
-
-
-
-
