@@ -1,9 +1,0 @@
-1. position (col,row) = 8*row + col
-
-2. col = position % 8
-
-3. row = (position - col) / 8
-
-4. long world = 0x2623321111233262L; bit position 6 is set to 1 / TRUE (convert to binary and count).
-
-5. for cell (4,2), bit position is 2*8 + 4 = 20. So bit is set to 0, by same method as above.
