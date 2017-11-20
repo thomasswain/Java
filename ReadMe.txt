@@ -1,1 +1,0 @@
-In Windows, When compiling/executing the java files, set the directory fully in CMD and don't have any package specification at the beginning of the .java file.
